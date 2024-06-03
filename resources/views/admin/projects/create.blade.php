@@ -30,7 +30,7 @@
                 <div>
                     <label for="title">Link Git:</label>
                 </div>
-                <input type="text" name="githbu_link" id="github_link" class="form-control" placeholder="Link per GitHub">
+                <input type="text" name="github_link" id="github_link" class="form-control" placeholder="Link per GitHub">
             </div>
 
             <button class="btn btn-primary">Crea</button>
